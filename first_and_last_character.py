@@ -1,4 +1,4 @@
 a=input()
 b=len(a)
 print(a[0])
-print(a[b-1])s-
+print(a[b-1])
